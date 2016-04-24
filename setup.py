@@ -27,6 +27,8 @@ setup(
         'pandas',
         'numpy',
         'parsimonious',
-        'scipy'
+        'scipy',
+        'lxml',
+        'matplotlib'
     ]
 )
